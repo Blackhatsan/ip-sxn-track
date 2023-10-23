@@ -12,7 +12,9 @@ apt update && apt upgrade
 
 git clone https://github.com/Blackhatsan/ip-sxn-track.git
 
-cd main.py
+cd ip-sxn-track
+
+ls
 
 python main.py
 
